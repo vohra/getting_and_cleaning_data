@@ -13,9 +13,9 @@ accelerometer measured the types of activity that were going on.
 
 Methods:
 Data Collection
-This analysis used a data sample from the UCI Machine Learning Repository which was prescribed by instructor Jeff Leek for
-the Data Analysis class on Coursera.org. The data contained 7,352 observations, each containing 563 variables (including
-the activity type and subject identifier). These data were downloaded from the course website on December 6, 2013 using
+This analysis used a data sample from the UCI Machine Learning Repository. 
+The data contained 7,352 observations, each containing 563 variables (including
+the activity type and subject identifier). These data were downloaded from the course website using
 the R programming language. After collection, the data were partitioned along subject lines into training and test sets.
 The training set contained subjects numbered 1, 3, 5, and 6; the test set contained subjects numbered 27,28, 29, and 30.
 
